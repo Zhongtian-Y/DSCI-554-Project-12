@@ -1,0 +1,12 @@
+{
+  "name": "DSCI-554",
+  "build": { "dockerfile": "Dockerfile" },
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  },
+
+  "forwardPorts": [3000, 8501, 5173]
+  }

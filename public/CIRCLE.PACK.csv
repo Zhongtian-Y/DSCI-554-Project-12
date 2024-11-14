@@ -1,0 +1,89 @@
+Continent,Country,Biome_Type,Region,Area_sq_km
+Africa,Kenya,Savanna,Maasai Mara,15000
+Africa,Kenya,Desert,Chalbi Desert,10000
+Africa,Egypt,Desert,Western Desert,200000
+Africa,Egypt,Grassland,Nile Delta,23000
+Africa,South Africa,Forest,Drakensberg,50000
+Africa,South Africa,Desert,Kalahari,90000
+Africa,Nigeria,Rainforest,Cross River,22000
+Africa,Nigeria,Savanna,Benue Valley,15000
+Africa,Tanzania,Mountain,Kilimanjaro,16000
+Africa,Tanzania,Savanna,Serengeti,30000
+Asia,India,Forest,Western Ghats,160000
+Asia,India,Grassland,Deccan Plateau,80000
+Asia,China,Forest,Sichuan Basin,100000
+Asia,China,Desert,Taklamakan,270000
+Asia,Russia,Taiga,Siberia,5000000
+Asia,Russia,Tundra,Yamal Peninsula,1500000
+Asia,Japan,Forest,Hokkaido,34000
+Asia,Japan,Grassland,Kanto Plain,25000
+Asia,Indonesia,Rainforest,Sumatra,200000
+Asia,Indonesia,Mangrove,Java Coast,100000
+North America,USA,Forest,Appalachians,185000
+North America,USA,Desert,Sonoran,260000
+North America,Canada,Forest,Rockies,3000000
+North America,Canada,Tundra,Nunavut,2000000
+North America,Mexico,Desert,Chihuahuan,140000
+North America,Mexico,Forest,Yucatán,170000
+Europe,Germany,Forest,Bavarian Forest,24200
+Europe,Germany,Grassland,Lüneburg Heath,10700
+Europe,France,Forest,French Alps,28000
+Europe,France,Mountain,Pyrenees,55000
+Europe,Italy,Grassland,Po Valley,20000
+Europe,Italy,Forest,Apennines,27000
+Europe,Spain,Mediterranean,Andalusia,23000
+Europe,Spain,Desert,Tabernas Desert,8000
+Europe,UK,Forest,Highlands,15000
+Europe,UK,Grassland,Yorkshire Dales,7000
+South America,Brazil,Rainforest,Amazon Basin,5500000
+South America,Brazil,Savanna,Cerrado,200000
+South America,Argentina,Grassland,Pampas,750000
+South America,Argentina,Desert,Monte,95000
+South America,Peru,Rainforest,Andes,800000
+South America,Peru,Mountain,Cordillera Blanca,500000
+Oceania,Australia,Desert,Simpson Desert,250000
+Oceania,Australia,Grassland,Murray Basin,180000
+Oceania,New Zealand,Forest,Fiordland,55000
+Oceania,New Zealand,Mountain,Southern Alps,85000
+Oceania,Papua New Guinea,Rainforest,Bismarck Range,75000
+Oceania,Papua New Guinea,Mangrove,Sepik River,60000
+Africa,Nigeria,Savanna,Sambisa Forest,60000
+Africa,Botswana,Grassland,Okavango Delta,15000
+Africa,Ethiopia,Desert,Danakil Depression,10000
+Asia,India,Forest,Western Ghats,160000
+Asia,India,Grassland,Deccan Plateau,80000
+Asia,China,Desert,Gobi Desert,1300000
+Asia,China,Forest,Sichuan Basin,500000
+Asia,Mongolia,Grassland,Eastern Steppe,780000
+Europe,France,Forest,Landes Forest,12000
+Europe,Germany,Forest,Black Forest,6000
+Europe,Spain,Grassland,Extremadura,20000
+Europe,Sweden,Taiga,Lapland,500000
+North America,USA,Desert,Mojave Desert,125000
+North America,USA,Forest,Appalachian Mountains,300000
+North America,Canada,Taiga,Boreal Forest,2700000
+South America,Brazil,Rainforest,Amazon,5500000
+South America,Argentina,Grassland,Pampas,760000
+South America,Chile,Desert,Atacama Desert,105000
+Australia,Australia,Desert,Simpson Desert,170000
+Australia,Australia,Savanna,Arnhem Land,97000
+Africa,Sudan,Savanna,Sudanese Savanna,100000
+Africa,Zambia,Forest,Miombo Woodlands,300000
+Asia,Indonesia,Rainforest,Borneo,425000
+Europe,Norway,Taiga,Scandinavian Mountains,324000
+South America,Colombia,Rainforest,Amazon Basin,400000
+South America,Peru,Rainforest,Upper Amazon,780000
+Oceania,Papua New Guinea,Rainforest,New Guinea Highlands,287000
+North America,Mexico,Desert,Sonoran Desert,260000
+Asia,Thailand,Forest,Khao Yai,50000
+Europe,Russia,Taiga,Siberian Taiga,1500000
+Asia,Saudi Arabia,Desert,Rub' al Khali,650000
+Africa,Morocco,Desert,Sahara,2500000
+Africa,Ghana,Savanna,Guinea Savanna,15000
+Europe,Italy,Grassland,Piedmont,2000
+Asia,Kazakhstan,Grassland,Kazakh Steppe,804500
+South America,Ecuador,Rainforest,Amazon Basin,120000
+Asia,Iran,Desert,Dasht-e Kavir,77000
+North America,USA,Wetlands,Florida Everglades,19000
+Australia,Australia,Rainforest,Daintree,1200
+Oceania,New Zealand,Forest,Fiordland,12500
